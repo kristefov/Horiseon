@@ -1,13 +1,20 @@
+/* The CSS code `*` selects all elements on the page, and the `box-sizing: border-box;` property
+ensures that the total width and height of an element includes the padding and border, rather than
+just the content. The `padding: 0;` and `margin: 0;` properties set the padding and margin of all
+elements to zero, effectively removing any default spacing that may be applied by the browser. */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* The CSS code `body { background-color: #d9dcd6; }` is setting the background color of the body
+element to a light grayish color with the hexadecimal value #d9dcd6. */
 body {
     background-color: #d9dcd6;
 }
 
+/* The `.header` class is defining the styling for the header section of the webpage. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,11 +22,17 @@ body {
     color: #ffffff;
 }
 
+/* The CSS code `.header h1 { display: inline-block; font-size: 48px; }` is targeting the `h1` element
+within the elements that have the class `header`. */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* The CSS code `.header h1 .seo { color: #d9dcd6; }` is targeting an element with the class `seo` that
+is a descendant of an `h1` element, which is itself a descendant of an element with the class
+`header`. It sets the color of the `seo` element to a light grayish color with the hexadecimal value
+#d9dcd6. */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -32,6 +45,10 @@ body {
     font-size: 20px;
 }
 
+/* The CSS code `.header ul li` is targeting the `li` elements that are descendants of `ul` elements,
+which are themselves descendants of elements with the class `header`. It sets the `display` property
+of the `li` elements to `inline-block`, which means they will be displayed horizontally next to each
+other. It also adds a left margin of 25 pixels to create spacing between the `li` elements. */
 .header  ul  {
     list-style-type: none;
 }
@@ -50,6 +67,8 @@ p {
     font-size: 16px;
 }
 
+/* The `.hero` class is defining the styling for a section of the webpage that is meant to be a hero
+image or a large banner at the top of the page. */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +78,8 @@ p {
     background-position: center;
 }
 
+/* The `.float-left` and `.float-right` classes are defining the styling for elements that should be
+floated to the left or right, respectively. */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +90,19 @@ p {
     margin-left: 25px;
 }
 
+/* The CSS code `.content` is defining the styling for an element with the class `content`. It sets the
+width of the element to 75% of its parent container, meaning it will take up 75% of the available
+width. The `display: inline-block;` property allows the element to be displayed inline with other
+elements, but still allows for setting a width and height. The `margin-left: 20px;` property adds a
+left margin of 20 pixels to create spacing between the `content` element and other elements. */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* The `.benefits` class is defining the styling for a section of the webpage that represents a set of
+benefits. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -111,15 +139,29 @@ p {
     color: #ffffff;
 }
 
+/* The CSS code `.online-social-search img { max-height: 200px; }` is setting the maximum height of any
+`img` element that is a descendant of an element with the class `online-social-search` to 200
+pixels. This ensures that the height of the image does not exceed 200 pixels, regardless of its
+original size. */
 .online-social-search img {
     max-height: 200px;
 }
 
+/* The CSS code `.online-social-search  h2` is targeting the `h2` element that is a descendant of an
+element with the class `online-social-search`. It sets the `margin-bottom` property to 20 pixels,
+creating a bottom margin of 20 pixels for the `h2` element. It also sets the `font-size` property to
+36 pixels, making the text inside the `h2` element have a font size of 36 pixels. */
 .online-social-search  h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* The CSS code `.footer` is defining the styling for an element with the class `footer`. It sets the
+padding of the element to 30 pixels, creating space around the content within the element. The
+`clear: both;` property ensures that the element is cleared of any floated elements that may appear
+before it. The `font-family` property sets the font family of the text within the element to
+'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif. The
+`text-align: center;` property centers the text within the element horizontally. */
 .footer {
     padding: 30px;
     clear: both;
