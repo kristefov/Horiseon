@@ -19,6 +19,12 @@ https://kristiyantefov.github.io/Horiseon/
 ## Link to repo
 
 https://github.com/kristiyantefov/Horiseon/
+
+## Authors
+
+- [GitHub - Kristiyan Tefov](https://github.com/kristiyantefov)
+
+
  
 ## Mock-Up
 
