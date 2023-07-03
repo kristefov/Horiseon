@@ -18,7 +18,7 @@ Horiseon is a web page that provides social media marketing and search engine op
 
 The site helps businesses improve their online presence and drive more traffic to their website. With a team of experts, Horiseon uses the latest techniques and strategies to increase visibility, boost brand awareness, and improve search engine rankings.
 
-## Some of the services offered by Horiseon include:
+### Some of the services offered by Horiseon include:
 
 * Social media management
 * Search engine optimization
