@@ -1,5 +1,18 @@
+[![Hex.pm](https://img.shields.io/badge/license%20-mit-blue?style=for-the-badge&logo=appveyor)](https://choosealicense.com/licenses/mit)
+
 # Horiseon
 Horiseon is a web page that provides social media marketing and search engine optimization (SEO) services
+
+
+## Table of Contents
+
+* [Features](#features)
+* [Link-to-website](#link-to-website)
+* [Link-to-repo](#link-to-repo)
+* [Authors](#authors)
+* [Mock-Up](#mock-up)
+* [License](#license)
+
 
 ## Features
 
@@ -33,3 +46,7 @@ The following image shows the web application's appearance and functionality:
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.][def]
 
 [def]: ./Image/01-html-css-git-homework-demo.png
+
+## License
+
+- This application is covered under: [MIT License](https://choosealicense.com/licenses/mit)
