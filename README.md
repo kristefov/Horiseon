@@ -27,15 +27,15 @@ The site helps businesses improve their online presence and drive more traffic t
 
 ## Link to website
 
-https://kristiyantefov.github.io/Horiseon/
+https://kristefov.github.io/Horiseon/
 
 ## Link to repo
 
-https://github.com/kristiyantefov/Horiseon/
+https://github.com/kristefov/Horiseon/
 
 ## Authors
 
-- [GitHub - Kristiyan Tefov](https://github.com/kristiyantefov)
+- [GitHub - Kris](https://github.com/kristefov)
 
 
  
